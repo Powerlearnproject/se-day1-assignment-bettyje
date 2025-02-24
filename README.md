@@ -8,7 +8,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software engineering is the discipline of designing, developing, testing, and maintaining software systems using structured methods and engineering principles. It drives innovation by creating tools like AI, machine learning, and IoT solutions that solve real-world problems. Software engineering enhances efficiency, scalability, and user experiences across industries such as healthcare, finance, and entertainment. It enables global connectivity through the internet, mobile apps, and cloud services. By ensuring reliable and adaptable systems, it supports economic growth and technological advancement. Ultimately, software engineering is essential for shaping the future of technology and improving how we live and work.
+The process of designing, developing, and maintaining software
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -30,12 +30,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall:
-Linear, sequential phases (requirements, design, implementation, testing, deployment).
+Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall.
 
 Rigid structure, best for well-defined, stable projects (e.g., building a bridge or a government system).
 
 Agile:
-Iterative, flexible approach with continuous collaboration and incremental delivery.
+Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 Ideal for dynamic, evolving projects (e.g., software startups or apps needing frequent updates).
 
